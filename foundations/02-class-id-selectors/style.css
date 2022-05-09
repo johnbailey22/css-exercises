@@ -1,19 +1,19 @@
 .odd{
-background-color: #FF99CC;
-font-family: "Verdana", "Dejavu Sans", sans-serif;
+  background-color: #FF99CC;
+  font-family: Verdana, "Dejavu Sans", sans-serif;
 }
 
 #even{
-color: #1111EA;
-font-size: 36px;
+  color: #1111EA;
+  font-size: 36px;
 }
 
 .cool{
-font-size: 24px;
+  font-size: 24px;
 }
 
 #another{
-background-color: #11EA59;
-font-size: 24px;
-weight: bold;
+  background-color: #11EA59;
+  font-size: 24px;
+  font-weight: bold;
 }
